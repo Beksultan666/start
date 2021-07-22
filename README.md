@@ -1,1 +1,1 @@
-Для быстрого страта web
+Start for layout
